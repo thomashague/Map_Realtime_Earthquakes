@@ -2,7 +2,7 @@
 
 This project taught me how to pull live location data from an organization and display it meaningfully in a map. The map can be viewed on a website or locally on your computer. 
 
-In a Javascript file, I first created the base map using leaflet and mapbox. Leaflet is the library used for creating maps, while mapbox provides template map layers you can add. 
+In a Javascript file, I first created the base map using leaflet and mapbox. Leaflet is the library used for creating maps, while mapbox provides template map background layers. 
 
 Then I pulled geo json data on all earthquakes in the past 7 days from the United States Geological Survey using D3. (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
